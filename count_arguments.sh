@@ -2,6 +2,9 @@
 echo "Total number of arguments $#"
 echo "Arguments entered are $@"
 echo "PID of this script is $$"
+echo "First Argument passed is $0"
+echo "Exit status is $?"
+
 echo "Double quote values are shown as one $*"
 
 
