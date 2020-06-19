@@ -1,0 +1,22 @@
+#sample if then elif then elif   then  else   fi
+#if [[ $a == *.Gif ]]
+ 
+#then
+    echo ""
+
+#elif [[  ]]]
+#then
+
+#   echo ""
+
+#elif [[  ]]
+#then
+ 
+  echo ""
+
+
+#else
+#   echo ""
+
+#fi
+
